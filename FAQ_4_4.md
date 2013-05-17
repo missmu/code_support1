@@ -1,30 +1,15 @@
-## 项目设置
+## Issue标签管理
 
-在你的项目主页点击右上角的“项目设置”，可进入项目设置页面。
+为了更高效的处理Issue，我们通过给Issue加标签来为之分类。
 
-### 1.项目基本信息修改
-您可以更改及设置项目名称、项目描述、项目所有者、项目公开性等信息，也可以删除项目。
-
-![alt 项目基本信息](/CSDN_Code/code_support/blob/master/images/FAQ_4_4_1.jpg "项目基本信息")
-
-### 2.项目成员管理
+在项目的Issue页，左下角，您可以看到当前Issue的自定义标签。点击“标签管理”，可为Issue添加新的标签。
 
 
-在项目设置页的左侧点击“项目成员”标签，可以查看及管理项目成员。
-
-![alt 项目基本信息](/CSDN_Code/code_support/blob/master/images/FAQ_4_4_1.jpg "项目基本信息")
-
-**邀请成员：**在文本框中输入你想邀请的项目成员的用户名，点击“邀请”，等待对方确认邀请后该用户即可成为你的项目成员。
-
-**删除成员：**点击项目成员用户名旁的“删除”按钮即可。
-
-### 3.项目功能管理
+![alt Issue标签](/CSDN_Code/code_support/blob/master/images/FAQ_4_4_1.jpg "Issue标签")
 
 
-在项目设置页面点击左侧的“功能管理”标签，进入项目功能管理页面。
+在添加Issue标签页面，填写标签名称，然后选择该标签的代表颜色，点击提交即可。
 
-![alt 项目基本信息](/CSDN_Code/code_support/blob/master/images/FAQ_4_4_1.jpg "项目基本信息")
+如此，在新建Issue的时候，您就可以通过文本框右侧的“修改标签”按钮，为该Issue选择合适的标签了。一个Issue可以拥有多个标签哦~
 
-在这里您可以通过勾选设置是否开启项目的“工单”及“wiki”功能。
-
-
+![alt Issue标签](/CSDN_Code/code_support/blob/master/images/FAQ_4_4_2.jpg "Issue标签")

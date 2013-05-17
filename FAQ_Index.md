@@ -75,8 +75,8 @@
 ### 4.1 [增加协作者](/help/CSDN_Code/code_support/FAQ_4_1 "增加协作者")
 ### 4.2 [处理合并请求](/help/CSDN_Code/code_support/FAQ_4_2 "处理合并请求")
 ### 4.3 [处理Issue](/help/CSDN_Code/code_support/FAQ_4_3 "处理Issue")
-### 4.4 Issue标签管理
-### 4.5 [项目设置](/help/CSDN_Code/code_support/FAQ_4_4 "项目设置")
+### 4.4 [Issue标签管理](/help/CSDN_Code/code_support/FAQ_4_4 "Issue标签管理")
+### 4.5 [项目设置](/help/CSDN_Code/code_support/FAQ_4_5 "项目设置")
 
 
 ## **5. 帐号设置**
