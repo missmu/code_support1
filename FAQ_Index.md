@@ -5,16 +5,16 @@
 ## **0. 常见问题（FAQ）**
 
 ----------
->### 0.1 [Code是什么？](/help/CSDN_Code/code_support/FAQ_0_1.md "Code是什么？")
+>### 0.1 [Code是什么？](/help/CSDN_Code/code_support/FAQ_0_1 "Code是什么？")
 
 ----------
->### 0.2 [如何加入Code网站？](/help/CSDN_Code/code_support/FAQ_0_2.md "如何加入Code网站？")
+>### 0.2 [如何加入Code网站？](/help/CSDN_Code/code_support/FAQ_0_2 "如何加入Code网站？")
 
 ----------
->### 0.3 [如何才能拿到邀请码？](/help/CSDN_Code/code_support/FAQ_0_3.md "如何才能拿到邀请码？")
+>### 0.3 [如何才能拿到邀请码？](/help/CSDN_Code/code_support/FAQ_0_3 "如何才能拿到邀请码？")
 
 ----------
->### 0.4 [网站好像还缺一些功能?](/help/CSDN_Code/code_support/FAQ_0_4.md "网站好像还缺一些功能?")
+>### 0.4 [网站好像还缺一些功能?](/help/CSDN_Code/code_support/FAQ_0_4 "网站好像还缺一些功能?")
 
 ----------
 >### 0.5 [我的数据安全么？](/help/CSDN_Code/code_support/FAQ_0_5.md "我的数据安全么")
