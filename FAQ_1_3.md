@@ -1,6 +1,6 @@
 ## 搜索
 
-此处插入图片
+![](/CSDN_Code/code_support/blob/master/images/FAQ_1_3_1.jpg)
 
 
 使用此功能，输入相关信息，可帮助您查找到相关的项目或用户：

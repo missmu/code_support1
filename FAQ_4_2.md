@@ -1,16 +1,24 @@
 ## 处理合并请求
 
 当别人给你的项目发送合并请求时，作为项目管理员或项目成员，你会在用户控制面板里看到：
->补充图
+
+
+![](/CSDN_Code/code_support/blob/master/images/FAQ_4_2_1.jpg)
 
 项目合并请求的状态也会发生变化
->补充图
+
+
+![](/CSDN_Code/code_support/blob/master/images/FAQ_4_2_2.jpg)
 
 作为项目管理员，还会在通知中看到一个新的合并请求通知
->补充图
+
+
+![](/CSDN_Code/code_support/blob/master/images/FAQ_4_2_3.jpg)
 
 **如果此合并请求可以被自动合并**
->补充可被自动合并按钮图
+
+
+![](/CSDN_Code/code_support/blob/master/images/FAQ_4_2_4.jpg)
 
 作为项目管理员或项目成员，你可以
 
@@ -20,7 +28,9 @@
 - 查看此次合并请求包含了多少提交，及提交内容与当前内容的差异
 
 **如果此合并请求不能被自动合并**
->补充不能自动合并按钮图
+
+
+![](/CSDN_Code/code_support/blob/master/images/FAQ_4_2_5.jpg)
 
 在这种情况下，作为项目管理员或项目成员，需要进行线下合并。线下合并的简单步骤:
 

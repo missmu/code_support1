@@ -1,4 +1,4 @@
-﻿## wiki
+## wiki
 
 
 wiki是一个项目的知识管理系统。一般来说，用于存放项目的介绍、用户手册、功能说明等内容。
@@ -6,7 +6,7 @@ wiki是一个项目的知识管理系统。一般来说，用于存放项目的�
 
 在一个项目主页点击右上角的“wiki”标签，可以进入该项目的wiki页面。
 
-![alt 进入wiki](images/FAQ_2_5_1.jpg "进入wiki")
+![alt 进入wiki](/CSDN_Code/code_support/blob/master/images/FAQ_2_5_1.jpg "进入wiki")
  
 
 ### 2.编辑wiki
@@ -16,7 +16,7 @@ wiki是一个项目的知识管理系统。一般来说，用于存放项目的�
 如果需要添加新的wiki页面，只需点击“新页面”按钮，即可新建一页wiki。 
 
 
-![alt 编辑wiki](images/FAQ_2_5_2.jpg "编辑wiki")
+![alt 编辑wiki](/CSDN_Code/code_support/blob/master/images/FAQ_2_5_2.jpg "编辑wiki")
 
 Wiki支持markdown格式文本。您可以直接在编辑框内编写markdown代码，或者写好文字后使用编辑框上方提供的格式按钮排版。
 
@@ -28,7 +28,7 @@ Wiki支持markdown格式文本。您可以直接在编辑框内编写markdown代
 
 如果您需要对某个页面进行编辑、删除、查看历史版本等操作，需要点击进入该页面的详细页。
 
-![alt wiki详细页](images/FAQ_2_5_3.jpg "wiki详细页")
+![alt wiki详细页](/CSDN_Code/code_support/blob/master/images/FAQ_2_5_3.jpg "wiki详细页")
 
 ### 4.wiki历史
 
@@ -36,7 +36,7 @@ Wiki支持markdown格式文本。您可以直接在编辑框内编写markdown代
  
 选中其中的任意两个页面，点击“对比”按钮，可以查看每次编辑的变动。
 
-![alt wiki历史页](images/FAQ_2_5_4.jpg "wiki历史页")
+![alt wiki历史页](/CSDN_Code/code_support/blob/master/images/FAQ_2_5_4.jpg "wiki历史页")
 
 ### 4.wiki与git
 
@@ -48,4 +48,4 @@ Wiki 仓库的访问权限同Wiki所属项目的权限，无需额外设置。
 
 点击“git库”标签可以获取wiki的ssh、http、git地址。
 
-![alt wiki与git](images/FAQ_2_5_5.jpg "wiki与git")
+![alt wiki与git](/CSDN_Code/code_support/blob/master/images/FAQ_2_5_5.jpg "wiki与git")

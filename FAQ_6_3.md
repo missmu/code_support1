@@ -35,4 +35,4 @@
 
 **Code平台安全构架**
 
-![](images/FAQ_6_3_1.png)
+![](/CSDN_Code/code_support/blob/master/images/FAQ_6_3_1.png)

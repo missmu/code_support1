@@ -1,6 +1,6 @@
-﻿## 用户主页
+## 用户主页
 
-此处插入图片
+![](/CSDN_Code/code_support/blob/master/images/FAQ_1_7_1.jpg)
 
 A.此区域显示当前用户头像、昵称、基本信息。
 

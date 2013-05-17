@@ -7,7 +7,7 @@
 
 在你的项目主页点击右上角的“项目设置”，进入项目设置中的“项目成员管理” ，输入被邀请方的用户名，点击“邀请”
 
-![alt](images/FAQ_4_1_1.png "")
+![alt](/CSDN_Code/code_support/blob/master/images/FAQ_4_1_1.png "")
 
 邀请发送后，被邀请方将收到邀请通知
 
@@ -15,5 +15,5 @@
 ### 接受邀请
 被邀请方进入“通知”中的邀请通知，点击接受邀请就可以成为项目成员
 
-![alt](images/FAQ_4_1_2.png "")
+![alt](/CSDN_Code/code_support/blob/master/images/FAQ_4_1_2.png "")
 

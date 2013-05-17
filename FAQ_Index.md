@@ -47,7 +47,7 @@
 ### 1.6 [社区](/help/CSDN_Code/code_support/FAQ_1_6 "社区")
 ### 1.7 [用户主页](/help/CSDN_Code/code_support/FAQ_1_7 "用户主页")
 ### 1.8 [用户控制面板](/help/CSDN_Code/code_support/FAQ_1_8 "用户控制面板")
-### 1.9 查看通知
+### 1.9 [查看通知](/help/CSDN_Code/code_support/FAQ_1_9 "查看通知")
 
 ## **2. 创建项目**
 ----------
@@ -67,7 +67,7 @@
 ### 3.5 [关注项目](/help/CSDN_Code/code_support/FAQ_3_5 "关注项目")
 ### 3.6 [关注人](/help/CSDN_Code/code_support/FAQ_3_6 "关注人")
 ### 3.7 [称赞](/help/CSDN_Code/code_support/FAQ_3_7 "称赞")
-### 3.8 开Issue
+### 3.8 [开Issue](/help/CSDN_Code/code_support/FAQ_3_8 "开Issue")
 
 
 ## **4. 项目管理**

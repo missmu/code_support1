@@ -12,4 +12,4 @@
 
 **Code平台系统构架**
 
-![](images/FAQ_6_2_1.png)
+![](/CSDN_Code/code_support/blob/master/images/FAQ_6_2_1.png)

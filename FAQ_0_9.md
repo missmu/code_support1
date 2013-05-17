@@ -8,13 +8,13 @@
 具体操作如图：
 
 
-![alt FAQ_0_9 提交报错工单](images/FAQ_0_9_1.jpg "提交报错工单1")
+![alt FAQ_0_9 提交报错工单](/CSDN_Code/code_support/blob/master/images/FAQ_0_9_1.jpg "提交报错工单1")
 
-![alt FAQ_0_9 提交报错工单](images/FAQ_0_9_2.jpg "提交报错工单2")
+![alt FAQ_0_9 提交报错工单](/CSDN_Code/code_support/blob/master/images/FAQ_0_9_2.jpg "提交报错工单2")
  
 ### 方法二：发送报错邮件
 
 
 您也可以直接发送错误报告到code客服邮箱 <code@csdn.net>，在邮件标题中注明 **[报错]** 以便我们及时发现并处理。
 
-![alt FAQ_0_9 提交报错邮件](images/FAQ_0_9_3.jpg "提交报错邮件")
+![alt FAQ_0_9 提交报错邮件](/CSDN_Code/code_support/blob/master/images/FAQ_0_9_3.jpg "提交报错邮件")

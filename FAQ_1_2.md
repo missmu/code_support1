@@ -1,6 +1,6 @@
-﻿## 发现
+## 发现
 
-此处插入图片
+![](/CSDN_Code/code_support/blob/master/images/FAQ_1_2_1.jpg)
 
 点击发现可以帮助您查看以下几项内容：
 

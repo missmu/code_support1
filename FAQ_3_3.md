@@ -1,9 +1,9 @@
-﻿## 合并请求
+## 合并请求
 
 如果您希望您派生的项目的更改应用于主项目或者其他派生项目，您可以向对方发起 “合并请求”。
 
 
-![alt 合并请求](images/FAQ_3_3_1.jpg "合并请求")
+![alt 合并请求](/CSDN_Code/code_support/blob/master/images/FAQ_3_3_1.jpg "合并请求")
 
 ### 1.发起请求
 
@@ -32,8 +32,8 @@
 
 查看别人向您发起的合并请求，您可以在自己的控制面板页面，点击“合并请求”按钮，进入合并请求列表页。
 
-![alt 查看合并请求](images/FAQ_3_3_2.jpg "查看合并请求")
+![alt 查看合并请求](/CSDN_Code/code_support/blob/master/images/FAQ_3_3_2.jpg "查看合并请求")
 
 ### 6.处理合并请求
 
-[合并请求的处理方式请查看“项目管理——处理合并请求”](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_4_2.md "处理合并请求")
+[合并请求的处理方式请查看“项目管理——处理合并请求”](/CSDN_Code/code_support/blob/master/FAQ_4_2.md "处理合并请求")
