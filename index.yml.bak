@@ -13,13 +13,3 @@
     url: "CSDN_Code/code_support/FAQ_0_2"
     - title: "如何才能拿到邀请码？"
     url: "CSDN_Code/code_support/FAQ_0_3"
-  - title: "1. 网站探索"
-    url: "CSDN_Code/code_support/FAQ_Index"
-    sub:
-    - title: "首页"
-    url: "CSDN_Code/code_support/FAQ_1_1"
-    - title: "发现"
-    url: "CSDN_Code/code_support/FAQ_1_2"
-    - title: "搜索"
-    url: "CSDN_Code/code_support/FAQ_1_3"
-    
