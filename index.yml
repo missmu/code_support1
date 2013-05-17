@@ -1,0 +1,27 @@
+- title: "首页"
+  url: "CSDN_Code/code_support/README"
+- title: "常见问题"
+  sub:
+  - title: "Code是什么"
+    url: "CSDN_Code/code_support/FAQ_0_1"
+  - title: "如何加入Code网站"
+    url: "CSDN_Code/code_support/FAQ_0_2"
+  - title: "如何才能拿到邀请码"
+    url: "CSDN_Code/code_support/FAQ_1_2"
+- title: "网站探索"
+  url: "CSDN_Code/code_support/FAQ_1_3"
+  sub:
+  - title: "首页"
+    url: "CSDN_Code/code_support/FAQ_1_1"
+  - title: "发现"
+    url: "CSDN_Code/code_support/FAQ_0_5"
+  - title: "探索"
+    url: "CSDN_Code/code_support/FAQ_0_6"
+- title: "创建项目"
+  url: "CSDN_Code/code_support/FAQ_1_8"
+  sub:
+  - title: "创建一个新项目"
+    url: "CSDN_Code/code_support/FAQ_2_1"
+    
+    
+
