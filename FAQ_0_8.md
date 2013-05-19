@@ -2,7 +2,7 @@
 
 **1.提交Issue**
 
-进入Code平台[帮助项目](/CSDN_Code/code_support)，点击Issue标签，创建一个Issue。选择
+进入Code平台[帮助项目](/CSDN_Code/code_support)，点击“Issue——新开Issue”，提交您的反馈。根据内容分类，为此Issue添加标签，比如“bug”，“新功能”等。
 
 **2.在论坛发帖**
 
