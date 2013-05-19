@@ -8,7 +8,7 @@
 
 确认你在CSDN id,获取的方式是在登录后，屏幕右上角图标即是CSDN id
 
-![](/CSDN_Code/code_support/blob/master/images/FAQ_2_2_1.png.png)
+![](/CSDN_Code/code_support/blob/master/images/FAQ_2_2_1.png)
 
 然后在命令行中输入
 >`git config --global user.name "CSDN id"`
