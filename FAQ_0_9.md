@@ -1,20 +1,53 @@
-## 如何提交错误报告?
+## 常见问题
 
-### 方法一：填写报错工单
+----------
+> 1 [Code工作模式](#Q1)
+
+----------
+> 2 [为什么提交显示的作者不是我自己](#Q2)
+
+----------
+> 3 [查看文件及查看提交Diff的限制（zcw）](#Q3)
+
+----------
+> 4 [常见问题_3](#Q4)
+
+----------
+> 5 [常见问题_4](#Q5)
+
+----------
+> 6 [常见问题_5](#Q6)
+
+----------
+
+### [Code工作模式](id:Q1)
+
+### [为什么提交显示的作者不是我自己](id:Q2)
+
+出现这个问题的主要原因是本地Git环境下配置的用户邮箱不对
+
+1. 首先检查CSDN passport -> 邮箱的信息
+
+![](/CSDN_Code/code_support/blob/master/images/FAQ_0_10_1.png)
+
+1. 再检查本地Git环境下user.email配置
+
+`$ git config user.email`
+
+1. 修改Git环境下user.email配置
+
+`$ git config --global user.email "codesupport@csdn.net"`
+
+----------
+
+### [查看文件及查看提交Diff的限制](id:Q3)
 
 
-在code首页导航栏点击“帮助”进入code平台帮助项目，点击“工单”——“新开工单”，在打开的页面编辑器里填入您想要提交的错误报告的名称、描述，并选择报告紧急程度“轻微、主要、严重”（默认为主要），完成后提交工单即可。
-
-具体操作如图：
+### [常见问题_3](id:Q4)
 
 
-![alt FAQ_0_9 提交报错工单](/CSDN_Code/code_support/blob/master/images/FAQ_0_9_1.jpg "提交报错工单1")
-
-![alt FAQ_0_9 提交报错工单](/CSDN_Code/code_support/blob/master/images/FAQ_0_9_2.jpg "提交报错工单2")
- 
-### 方法二：发送报错邮件
+### [常见问题_4](id:Q5)
 
 
-您也可以直接发送错误报告到code客服邮箱 <code@csdn.net>，在邮件标题中注明 **[报错]** 以便我们及时发现并处理。
+### [常见问题_5](id:Q6)
 
-![alt FAQ_0_9 提交报错邮件](/CSDN_Code/code_support/blob/master/images/FAQ_0_9_3.jpg "提交报错邮件")
