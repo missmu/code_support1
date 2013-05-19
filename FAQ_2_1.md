@@ -19,7 +19,7 @@
 （2）项目描述将显示在项目名称下方，建议不要添加太多文字。更详细的项目介绍可使用wiki添加或者在README文件中介绍。
 
  
-![alt 项目描述](images/CSDN_Code/code_support/blob/master/FAQ_2_1_3.jpg "项目描述")
+![alt 项目描述](/CSDN_Code/code_support/blob/master/FAQ_2_1_3.jpg "项目描述")
 
 （3）如果您的项目有独立网站，请在“项目主页”处填写网站url，该地址将显示在您的项目名称的下方。没有可以不填写。
 
