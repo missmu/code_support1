@@ -1,34 +1,17 @@
-## 用户权限是如何划分的？
+## 如何反馈?
 
-公开项目对所有人都可见， 私有项目只有项目主人和成员才能访问，具体权限划分如下
+**1.提交Issue**
 
-### 公开项目
+进入Code平台[帮助项目](/CSDN_Code/code_support)，点击“Issue——新开Issue”，提交您的反馈。根据内容分类，为此Issue添加标签，比如“bug”，“新功能”等。
 
+**2.在论坛发帖**
 
-角色 | 项目读权限 | 项目写权限 | 管理项目 | 派生项目 |提交合并请求 | 处理合并请求 | 提交Issue | 处理Issue | 编辑Wiki | 对提交、合并请求、Issue发表评论
------------- | ------------- | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------
-项目主人|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|
-项目成员|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/cross.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|
-其它用户 |![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/cross.png)|![](/CSDN_Code/code_support/blob/master/images/cross.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/cross.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/cross.png)|![](/CSDN_Code/code_support/blob/master/images/cross.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|
+点击导航栏中的“论坛”，进入Code论坛，发起一个报错的帖子。客服人员将会及时回应您的反馈。您还将收到其他网友对此问题的回复。
+ 
+**3.发送报错邮件**
 
-### 私有项目
+您也可以直接发送错误报告到code客服邮箱 <code@csdn.net>，在邮件标题中注明 **[报错]** 以便我们及时发现并处理。
 
+**4.派生帮助项目**
 
-角色 | 项目读权限 | 项目写权限 | 管理项目 | 派生项目 |提交合并请求 | 处理合并请求 | 提交Issue | 处理Issue | 编辑Wiki | 对提交、合并请求、Issue发表评论
------------- | ------------- | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------
-项目主人|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|
-项目成员－开发者|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/cross.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|
-项目成员－观察者 |![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/cross.png)|![](/CSDN_Code/code_support/blob/master/images/cross.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/cross.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|![](/CSDN_Code/code_support/blob/master/images/cross.png)|![](/CSDN_Code/code_support/blob/master/images/cross.png)|![](/CSDN_Code/code_support/blob/master/images/ok.png)|
-其它用户 |![](/CSDN_Code/code_support/blob/master/images/cross.png)|![](/CSDN_Code/code_support/blob/master/images/cross.png)|![](/CSDN_Code/code_support/blob/master/images/cross.png)|![](/CSDN_Code/code_support/blob/master/images/cross.png)|![](/CSDN_Code/code_support/blob/master/images/cross.png)|![](/CSDN_Code/code_support/blob/master/images/cross.png)|![](/CSDN_Code/code_support/blob/master/images/cross.png)|![](/CSDN_Code/code_support/blob/master/images/cross.png)|![](/CSDN_Code/code_support/blob/master/images/cross.png)|![](/CSDN_Code/code_support/blob/master/images/cross.png)|
-
-
-### 关于的权限解释
-
-对以上项目的权限详细解释如下
-
-权限 | 解释
------------- | ------------
-项目管理权限 | 创建、删除项目，修改项目设置， 转交项目给其它人，添加项目成员，管理项目成员的权限
-项目读权限 | 通过git/ssh/https克隆项目，在线浏览项目
-项目写权限 | 通过ssh/https对项目进行Push操作， 编辑文件
-
+如果您发现帮助文档有不正确的地方，或者需要补充，您也可以直接派生[帮助项目](/CSDN_Code/code_support)，直接针对项目文档做出修改，然后向CSDN_Code/code_support提交合并请求。

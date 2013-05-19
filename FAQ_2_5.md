@@ -2,14 +2,13 @@
 
 
 wiki是一个项目的知识管理系统。一般来说，用于存放项目的介绍、用户手册、功能说明等内容。
-### 1.进入wiki
+
+**1.进入wiki**
 
 在一个项目主页点击右上角的“wiki”标签，可以进入该项目的wiki页面。
-
-![alt 进入wiki](/CSDN_Code/code_support/blob/master/images/FAQ_2_5_1.jpg "进入wiki")
  
 
-### 2.编辑wiki
+**2.编辑wiki**
 
 进入wiki页面默认展示的是主页内容。点击主页右上角的“编辑”按钮，可以重新编辑主页文字。
 
@@ -22,23 +21,21 @@ Wiki支持markdown格式文本。您可以直接在编辑框内编写markdown代
 
 编辑完成后，在正文下方的长方形文本框里填写本次编辑的备注，如果不填写，默认为“某某更新了新页”。
 
-### 3.wiki页面
+**3.wiki页面**
 
 点击wiki页面左侧的“页面”标签，可以查看所有的wiki页面。
 
 如果您需要对某个页面进行编辑、删除、查看历史版本等操作，需要点击进入该页面的详细页。
 
-![alt wiki详细页](/CSDN_Code/code_support/blob/master/images/FAQ_2_5_3.jpg "wiki详细页")
+**4.wiki历史**
 
-### 4.wiki历史
-
-您对wiki的每次操作code都会记录在案。点击wiki页的“历史”标签，将可以看到所有的操作记录。包括创建页面、编辑页面，每次的编辑说明等。
+您对wiki的每次操作Code都会记录在案。点击wiki页的“历史”标签，将可以看到所有的操作记录。包括创建页面、编辑页面，每次的编辑说明等。
  
 选中其中的任意两个页面，点击“对比”按钮，可以查看每次编辑的变动。
 
 ![alt wiki历史页](/CSDN_Code/code_support/blob/master/images/FAQ_2_5_4.jpg "wiki历史页")
 
-### 4.wiki与git
+**4.wiki与git**
 
 每个项目的wiki数据作为一个git仓库来存放，因此，您可以像管理git项目库一样使用git命令对wiki数据进行克隆和访问。
 
