@@ -2,6 +2,8 @@
 
 ![](/CSDN_Code/code_support/blob/master/images/FAQ_1_7_1.jpg)
 
+用户主页显示一个用户的所有个人信息和状态。
+
 A.此区域显示当前用户头像、昵称、基本信息。
 
 B.此区域显示当前用户详细信息。

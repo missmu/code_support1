@@ -1,5 +1,7 @@
 ## 查看通知
 
+![](/CSDN_Code/code_support/blob/master/images/FAQ_1_1_2.jpg "通知")
+
 登录CODE网站后，网页右上角，您的用户名旁边，有个“通知”链接。
 
 如果您有未读的通知消息，该图标处会有一个小红点提示您。
