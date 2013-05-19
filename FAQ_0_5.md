@@ -7,5 +7,5 @@ code安全管理构架如图：
 
 ![alt code安全构架](/CSDN_Code/code_support/blob/master/images/FAQ_0_5_1.jpg)
 
-了解详情，请点击查看[CODE网站安全架构](/CSDN_Code/code_support/blob/master/FAQ_6_3.md)
+了解详情，请点击查看[CODE网站安全架构](/help/CSDN_Code/code_support/FAQ_6_3)
 
