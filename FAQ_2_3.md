@@ -6,18 +6,18 @@
 **1. 生成公钥**
 
 首先检查本机公钥：
-`` $ cd ~/. ssh ``
+
+	$ cd ~/. ssh
  
 如果提示：No such file or directory 说明你是第一次使用git。如果不是第一次使用，请执行下面的操作,清理原有ssh密钥。
 
-``$ mkdir key_backup``
-
-``$ cp id_rsa* key_backup``
-
-``$ rm id_rsa*``
+	$ mkdir key_backup
+	$ cp id_rsa* key_backup
+	$ rm id_rsa*
 
 生成新的密钥：
-``$ ssh-keygen –t rsa –C “您的邮箱地址” ``
+
+	$ ssh-keygen –t rsa –C “您的邮箱地址” ``
  
 在回车中会提示你输入一个密码，这个密码会在你提交项目时使用，如果为空的话提交项目时则不用输入。
  
