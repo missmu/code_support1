@@ -42,4 +42,4 @@ Wiki 仓库的访问权限同Wiki所属项目的权限，无需额外设置。
 
 点击wiki的“git库”标签可以获取wiki的ssh、http、git地址。
 
-![alt wiki与git](/CSDN_Code/code_support/blob/master/images/FAQ_2_5_1.jpg "wiki与git")
+![alt wiki与git](/CSDN_Code/code_support/blob/master/images/FAQ_2_5_2.jpg "wiki与git")
