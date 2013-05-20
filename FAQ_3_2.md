@@ -1,10 +1,7 @@
 ## 查看派生树
 
-
-![alt 添加公钥](/CSDN_Code/code_support/blob/master/images/FAQ_3_2_1.jpg "添加公钥")
-
 进入一个项目主页，点击派生按钮旁边的数字，可以进入该项目的派生树。其中数字代表当前项目被派生了几次。
 
-![alt 添加公钥](/CSDN_Code/code_support/blob/master/images/FAQ_3_2_2.jpg "添加公钥")
+![alt 查看派生树](/CSDN_Code/code_support/blob/master/images/FAQ_3_2_2.jpg "查看派生树")
 
 在派生树上点击任意一个项目名，可以进入该项目的主页面。点击用户名，可以进入该用户的个人主页。
