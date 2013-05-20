@@ -15,10 +15,11 @@
 
 ![](/CSDN_Code/code_support/blob/master/images/FAQ_4_2_3.jpg)
 
-**如果此合并请求可以被自动合并**
-
+点击该合并请求的名称，进入合并请求处理页面。如下图：
 
 ![](/CSDN_Code/code_support/blob/master/images/FAQ_4_2_4.jpg)
+
+**如果此合并请求可以被自动合并**
 
 作为项目管理员或项目成员，你可以
 
@@ -28,9 +29,6 @@
 - 查看此次合并请求包含了多少提交，及提交内容与当前内容的差异
 
 **如果此合并请求不能被自动合并**
-
-
-![](/CSDN_Code/code_support/blob/master/images/FAQ_4_2_5.jpg)
 
 在这种情况下，作为项目管理员或项目成员，需要进行线下合并。线下合并的简单步骤:
 
