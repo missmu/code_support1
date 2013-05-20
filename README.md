@@ -3,23 +3,23 @@
 ----------
 
 ## **Progit中文版**
-**[1. 起步](/help/CSDN_Code/progit/zh/01-introduction/01-chapter1)
+**[1. 起步](/help/CSDN_Code/progit/zh/01-introduction/01-chapter1)**
 
-**[2. Git基础](/help/CSDN_Code/progit/zh/02-git-basics/01-chapter2)
+**[2. Git基础](/help/CSDN_Code/progit/zh/02-git-basics/01-chapter2)**
 
-**[3. Git分支](/help/CSDN_Code/progit/zh/03-git-branching/01-chapter3)
+**[3. Git分支](/help/CSDN_Code/progit/zh/03-git-branching/01-chapter3)**
 
-**[4. 服务器上的Git](/help/CSDN_Code/progit/zh/04-git-server/01-chapter4)
+**[4. 服务器上的Git](/help/CSDN_Code/progit/zh/04-git-server/01-chapter4)**
 
-**[5. 分布式Git](/help/CSDN_Code/progit/zh/05-distributed-git/01-chapter5)
+**[5. 分布式Git](/help/CSDN_Code/progit/zh/05-distributed-git/01-chapter5)**
 
-**[6. Git工具](/help/CSDN_Code/progit/zh/06-git-tools/01-chapter6)
+**[6. Git工具](/help/CSDN_Code/progit/zh/06-git-tools/01-chapter6)**
 
-**[7. 自定义Git](/help/CSDN_Code/progit/zh/07-customizing-git/01-chapter7)
+**[7. 自定义Git](/help/CSDN_Code/progit/zh/07-customizing-git/01-chapter7)**
 
-**[8. 自定义Git](/help/CSDN_Code/progit/zh/08-git-and-other-scms/01-chapter8)
+**[8. 自定义Git](/help/CSDN_Code/progit/zh/08-git-and-other-scms/01-chapter8)**
 
-**[9. 自定义Git](/help/CSDN_Code/progit/zh/09-git-internals/01-chapter9)
+**[9. 自定义Git](/help/CSDN_Code/progit/zh/09-git-internals/01-chapter9)**
 
 ## **Code平台帮助**
 
