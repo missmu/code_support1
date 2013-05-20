@@ -4,6 +4,7 @@
 
 安装完客户端后，需要完成以下的配置：
 
+
 **配置用户名**
 
 确认你在CSDN id,获取的方式是在登录后，进入passport.csdn.net，在“个人帐号”的最下端查看用户名
@@ -21,10 +22,9 @@
 
 	git config --global user.email "CSDN passport中注册邮箱"
 
+
 **检查配置**
 
-最后检查配置
+最后检查user.name及user.email是否配置正确
 
 	git config -l
-
-检查user.name及user.email是否配置正确
