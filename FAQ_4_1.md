@@ -13,6 +13,7 @@
 
 
 ### 接受邀请
+
 被邀请方进入“通知”中的邀请通知，点击接受邀请就可以成为项目成员
 
 ![alt](/CSDN_Code/code_support/blob/master/images/FAQ_4_1_2.png "")

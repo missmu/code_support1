@@ -4,7 +4,7 @@
 
 - SSH/HTTPS保证数据传输的安全
 - 阿里云数据多副本备份机制
-- 阿里云快照机制
+- 阿里云数据快照机制
 - 每晚Code平台数据备份机制
 
 ### Code的安全框架
@@ -46,4 +46,4 @@
 
 **Code平台安全构架**
 
-![](CSDN_Code/code_support/blob/master/images/FAQ_6_3_1.png)
+![](/images/FAQ_6_3_1.png)
