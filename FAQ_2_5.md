@@ -23,7 +23,7 @@ Wiki支持markdown格式文本。您可以直接在编辑框内编写markdown代
 点击wiki页面左侧的“页面”标签，可以查看所有的wiki页面。点击进入其中一个页面，即可对该页面进行编辑、删除、查看历史版本等操作。
 
 
-![alt wiki详细页](/CSDN_Code/code_support/blob/master/images/FAQ_2_5_1.jpg "wiki详细页")
+![alt wiki详细页](/images/FAQ_2_5_1.jpg "wiki详细页")
 
 **4.wiki历史**
 
@@ -42,4 +42,4 @@ Wiki 仓库的访问权限同Wiki所属项目的权限，无需额外设置。
 
 点击wiki的“git库”标签可以获取wiki的ssh、http、git地址。
 
-![alt wiki与git](/CSDN_Code/code_support/blob/master/images/FAQ_2_5_2.jpg "wiki与git")
+![alt wiki与git](/images/FAQ_2_5_2.jpg "wiki与git")

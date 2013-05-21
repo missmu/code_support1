@@ -9,7 +9,7 @@
 
 确认你在CSDN id,获取的方式是在登录后，进入passport.csdn.net，在“个人帐号”的最下端查看用户名
 
-![](/CSDN_Code/code_support/blob/master/images/FAQ_2_2_1.png)
+![](/images/FAQ_2_2_1.png)
 
 然后在命令行中输入
 

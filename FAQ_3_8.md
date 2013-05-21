@@ -6,7 +6,7 @@ Issue是对一个项目的备注信息。它可以包括待完成的任务、bug
 
 点击页面右侧的“新开Issue”按钮可以新建一个Issue。
 
-![alt Issue标签](/CSDN_Code/code_support/blob/master/images/FAQ_3_8_1.jpg "Issue标签")
+![alt Issue标签](/images/FAQ_3_8_1.jpg "Issue标签")
 
 在弹出的新页面中，您可以填写该Issue的标题、描述，并选择其紧急程度。紧急程度包括“主要、轻微、严重”三个级别。项目管理者会根据紧急程度来处理或者分配给他人处理该条Issue。
 

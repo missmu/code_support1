@@ -3,21 +3,21 @@
 当别人给你的项目发送合并请求时，作为项目管理员或项目成员，你会在用户控制面板里看到：
 
 
-![](/CSDN_Code/code_support/blob/master/images/FAQ_4_2_1.jpg)
+![](/images/FAQ_4_2_1.jpg)
 
 项目合并请求的状态也会发生变化
 
 
-![](/CSDN_Code/code_support/blob/master/images/FAQ_4_2_2.jpg)
+![](/images/FAQ_4_2_2.jpg)
 
 作为项目管理员，还会在通知中看到一个新的合并请求通知
 
 
-![](/CSDN_Code/code_support/blob/master/images/FAQ_4_2_3.jpg)
+![](/images/FAQ_4_2_3.jpg)
 
 点击该合并请求的名称，进入合并请求处理页面。如下图：
 
-![](/CSDN_Code/code_support/blob/master/images/FAQ_4_2_4.jpg)
+![](/images/FAQ_4_2_4.jpg)
 
 **如果此合并请求可以被自动合并**
 
@@ -34,16 +34,14 @@
 
 - 新建test-master分支：
 
-`git checkout -b test-master master`
+	git checkout -b test-master master
 
 - 将合并请求方的代码下载到test-master分支上：
 
-`git pull <源git url>`
+	git pull <源git url>
 
 - 进行代码合并：
 
-`git checkout master`
-
-`git merge test-master`
-
-`git push origin master`
+	git checkout master
+	git merge test-master
+	git push origin master

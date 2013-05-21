@@ -3,7 +3,7 @@
 如果您希望您派生的项目的更改应用于主项目或者其他派生项目，您可以向对方发起 “合并请求”。
 
 
-![alt 合并请求](/CSDN_Code/code_support/blob/master/images/FAQ_3_3_1.jpg "合并请求")
+![alt 合并请求](/images/FAQ_3_3_1.jpg "合并请求")
 
 **1.发起请求**
 
