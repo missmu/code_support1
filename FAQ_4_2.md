@@ -32,15 +32,15 @@
 
 在这种情况下，作为项目管理员或项目成员，需要进行线下合并。线下合并的简单步骤:
 
-- 新建test-master分支：
+新建test-master分支：
 
 	git checkout -b test-master master
 
-- 将合并请求方的代码下载到test-master分支上：
+将合并请求方的代码下载到test-master分支上：
 
 	git pull <源git url>
 
-- 进行代码合并：
+进行代码合并：
 
 	git checkout master
 	git merge test-master
