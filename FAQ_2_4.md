@@ -8,13 +8,13 @@
 	$ git init
 	$ git add .
 	$ git commit -m “first commit”
-	$ git remote add origin <项目ssh url, 如git@code.csdn.net:xxx/xxx.git>
+	$ git remote add origin <项目url, 如git@code.csdn.net:xxx/xxx.git>
 	$ git push -u origin master
     
 **使用Readme文件初始化的项目**
 
 使用此选项创建的项目，用户需要首先在本地将网站上的项目Clone下来，才能进一步进行文件上传。
 
-	$ git clone <项目ssh url, 如git@code.csdn.net:xxx/xxx.git>
+	$ git clone <项目url, 如git@code.csdn.net:xxx/xxx.git>
 	$ 做些更新
 	$ git push
