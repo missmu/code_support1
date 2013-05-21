@@ -17,9 +17,9 @@
 
 **[7. 自定义Git](/help/CSDN_Code/progit/zh/07-customizing-git/01-chapter7)**
 
-**[8. 自定义Git](/help/CSDN_Code/progit/zh/08-git-and-other-scms/01-chapter8)**
+**[8. Git与其他系统](/help/CSDN_Code/progit/zh/08-git-and-other-scms/01-chapter8)**
 
-**[9. 自定义Git](/help/CSDN_Code/progit/zh/09-git-internals/01-chapter9)**
+**[9. Git内部原理](/help/CSDN_Code/progit/zh/09-git-internals/01-chapter9)**
 
 ## **Code平台帮助**
 
