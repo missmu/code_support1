@@ -8,19 +8,21 @@
 
 0.2 [如何加入Code网站？](/help/CSDN_Code/code_support/FAQ_0_2 "如何加入Code网站？")
 
-0.3 [网站好像还缺一些功能?](/help/CSDN_Code/code_support/FAQ_0_4 "网站好像还缺一些功能?")
+0.3 [网站好像还缺一些功能?](/help/CSDN_Code/code_support/FAQ_0_3 "网站好像还缺一些功能?")
 
-0.4 [我的数据安全么？](/help/CSDN_Code/code_support/FAQ_0_5 "我的数据安全么")
+0.4 [我的数据安全么？](/help/CSDN_Code/code_support/FAQ_0_4 "我的数据安全么")
 
-0.5 [Code代码托管业务收费么？](/help/CSDN_Code/code_support/FAQ_0_6 "Code代码托管业务收费么?")
+0.5 [Code代码托管业务收费么？](/help/CSDN_Code/code_support/FAQ_0_5 "Code代码托管业务收费么?")
 
-0.6 [每个用户有多少磁盘容量？](/help/CSDN_Code/code_support/FAQ_0_7 "每个用户有多少磁盘容量?")
+0.6 [每个用户有多少磁盘容量？](/help/CSDN_Code/code_support/FAQ_0_6 "每个用户有多少磁盘容量?")
 
-0.7 [用户权限是如何划分的？](/help/CSDN_Code/code_support/FAQ_0_8 "用户权限是如何划分的？")
+0.7 [用户权限是如何划分的？](/help/CSDN_Code/code_support/FAQ_0_6 "用户权限是如何划分的？")
 
-0.8 [如何反馈？](/help/CSDN_Code/code_support/FAQ_0_9 "如何提交错误报告？")
+0.8 [如何反馈？](/help/CSDN_Code/code_support/FAQ_0_8 "如何提交错误报告？")
 
-0.9 [常见问题](/help/CSDN_Code/code_support/FAQ_0_10 "常见问题")
+0.9 [Git工作模式](/help/CSDN_Code/code_support/FAQ_0_9 "Git工作模式")
+
+0.10 [常见错误](/help/CSDN_Code/code_support/FAQ_0_10 "常见错误")
 
 ----------
 
