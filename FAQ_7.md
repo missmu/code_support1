@@ -12,4 +12,4 @@
 
 
 
-![alt 地理位置图](http://csdnimg.cn/www/company/images/map.gif "地理位置图")
+![alt 地理位置图](/images/map.gif "地理位置图")
