@@ -1,6 +1,6 @@
 ﻿
 - title: "首页"
-  url: "CSDN_Code/code_support/README"
+  url: "CSDN_Code/code_support/Index"
 - title: "Progit中文版"
   url: "CSDN_Code/code_support/Progit_Index"
   sub:
@@ -127,3 +127,7 @@
 
     - title: "8. 法律声明"
       url: "CSDN_Code/code_support/FAQ_8"
+
+    - title: "9. 致谢"
+      url: "CSDN_Code/code_support/FAQ_9"
+      
