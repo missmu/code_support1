@@ -44,8 +44,10 @@
           url: "CSDN_Code/code_support/FAQ_0_7"
         - title: "0.8 如何反馈？"
           url: "CSDN_Code/code_support/FAQ_0_8"
-        - title: "0.9 常见问题"
+        - title: "0.9 Git工作模式"
           url: "CSDN_Code/code_support/FAQ_0_9"
+        - title: "0.10 常见错误"
+          url: "CSDN_Code/code_support/FAQ_0_10"
 
     - title: "1. 网站探索"
       sub:

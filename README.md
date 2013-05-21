@@ -41,7 +41,9 @@
 
 0.8 [如何反馈？](/help/CSDN_Code/code_support/FAQ_0_9 "如何提交错误报告？")
 
-0.9 [常见问题](/help/CSDN_Code/code_support/FAQ_0_10 "常见问题")
+0.9 [Git工作模式](/help/CSDN_Code/code_support/FAQ_0_9 "Git工作模式")
+
+0.10 [常见错误](/help/CSDN_Code/code_support/FAQ_0_10 "常见错误")
 
 **1. 网站探索**
 
