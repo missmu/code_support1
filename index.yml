@@ -29,15 +29,15 @@
   sub:
     - title: "0. 常见问题（FAQ）"
       sub:
-        - title: "0.1 Code是什么？"
+        - title: "0.1 CODE是什么？"
           url: "CSDN_Code/code_support/FAQ_0_1"
-        - title: "0.2 如何加入Code网站？"
+        - title: "0.2 如何加入CODE网站？"
           url: "CSDN_Code/code_support/FAQ_0_2"
         - title: "0.3 网站好像还缺一些功能？"
           url: "CSDN_Code/code_support/FAQ_0_3"
         - title: "0.4 我的数据安全吗？"
           url: "CSDN_Code/code_support/FAQ_0_4"
-        - title: "0.5 Code代码托管业务收费吗？"
+        - title: "0.5 CODE代码托管业务收费吗？"
           url: "CSDN_Code/code_support/FAQ_0_5"
         - title: "0.6 每个用户有多少磁盘容量？"
           url: "CSDN_Code/code_support/FAQ_0_6"
@@ -117,7 +117,7 @@
 
     - title: "6. 关于我们"
       sub:
-        - title: "6.1 为什么CSDN要做Code平台"
+        - title: "6.1 为什么CSDN要做CODE平台"
           url: "CSDN_Code/code_support/FAQ_6_1"
         - title: "6.2 我们的开源"
           url: "CSDN_Code/code_support/FAQ_6_2"

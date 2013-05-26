@@ -25,15 +25,15 @@
 
 **0. 常见问题（FAQ）**
 
-0.1 [Code是什么？](/help/CSDN_Code/code_support/FAQ_0_1 "Code是什么？")
+0.1 [CODE是什么？](/help/CSDN_Code/code_support/FAQ_0_1 "CODE是什么？")
 
-0.2 [如何加入Code网站？](/help/CSDN_Code/code_support/FAQ_0_2 "如何加入Code网站？")
+0.2 [如何加入CODE网站？](/help/CSDN_Code/code_support/FAQ_0_2 "如何加入CODE网站？")
 
 0.3 [网站好像还缺一些功能?](/help/CSDN_Code/code_support/FAQ_0_4 "网站好像还缺一些功能?")
 
 0.4 [我的数据安全么？](/help/CSDN_Code/code_support/FAQ_0_5 "我的数据安全么")
 
-0.5 [Code代码托管业务收费么？](/help/CSDN_Code/code_support/FAQ_0_6 "Code代码托管业务收费么?")
+0.5 [CODE代码托管业务收费么？](/help/CSDN_Code/code_support/FAQ_0_6 "CODE代码托管业务收费么?")
 
 0.6 [每个用户有多少磁盘容量？](/help/CSDN_Code/code_support/FAQ_0_7 "每个用户有多少磁盘容量?")
 
@@ -107,7 +107,7 @@
 
 **6. 关于我们**
 
-6.1 [为什么CSDN要做Code平台](/help/CSDN_Code/code_support/FAQ_6_1 "为什么CSDN要做Code平台")
+6.1 [为什么CSDN要做CODE平台](/help/CSDN_Code/code_support/FAQ_6_1 "为什么CSDN要做CODE平台")
 
 6.2 [我们的开源](/help/CSDN_Code/code_support/FAQ_6_4 "我们的开源")
 
