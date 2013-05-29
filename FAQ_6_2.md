@@ -17,4 +17,4 @@ CSDN还有一些其它的开源项目，他们也在CODE平台上安家落户了
 
 - **[limiter](https://code.csdn.net/inosin/limiter)**：网站反爬虫和DOS攻击的利器
 
-其实，CSDN的开源项目远远不止上面所写的这些，我们的开发团队成员：[我为丫狂](https://code.csdn.net/inosin)，[郝珏](https://code.csdn.net/hjue)，[ansj](https://code.csdn.net/ansjsun)，[祝海林](https://code.csdn.net/allwefantasy)，[reyesyang](https://code.csdn.net/Reyes11235813)，[路人乙](https://code.csdn.net/sq_zhuyi)，[tusiji_accept](https://code.csdn.net/tusiji_accept)都加入了Code平台，他们把平时CSDN用的一些应用和工具都开源到平台上了，希望能对大家有帮助！
+其实，CSDN的开源项目远远不止上面所写的这些，我们的开发团队成员：[我为丫狂](https://code.csdn.net/inosin)，[郝珏](https://code.csdn.net/hjue)，[ansj](https://code.csdn.net/ansjsun)，[祝海林](https://code.csdn.net/allwefantasy)，[reyesyang](https://code.csdn.net/Reyes11235813)，[路人乙](https://code.csdn.net/sq_zhuyi)，[tusiji_accept](https://code.csdn.net/tusiji_accept)都加入了CODE平台，他们把平时CSDN用的一些应用和工具都开源到平台上了，希望能对大家有帮助！
