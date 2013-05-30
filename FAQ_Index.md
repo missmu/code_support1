@@ -100,7 +100,7 @@
 
 6.1 [为什么CSDN要做CODE平台](/help/CSDN_Code/code_support/FAQ_6_1 "为什么CSDN要做CODE平台")
 
-6.2 [我们的开源](/help/CSDN_Code/code_support/FAQ_6_4 "我们的开源")
+6.2 [我们的开源](/help/CSDN_Code/code_support/FAQ_6_2 "我们的开源")
 
 ----------
 
