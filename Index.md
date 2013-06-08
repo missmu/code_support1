@@ -29,17 +29,17 @@
 
 0.2 [如何加入CODE网站？](/help/CSDN_Code/code_support/FAQ_0_2 "如何加入CODE网站？")
 
-0.3 [网站好像还缺一些功能?](/help/CSDN_Code/code_support/FAQ_0_4 "网站好像还缺一些功能?")
+0.3 [网站好像还缺一些功能?](/help/CSDN_Code/code_support/FAQ_0_3 "网站好像还缺一些功能?")
 
-0.4 [我的数据安全么？](/help/CSDN_Code/code_support/FAQ_0_5 "我的数据安全么")
+0.4 [我的数据安全么？](/help/CSDN_Code/code_support/FAQ_0_4 "我的数据安全么")
 
-0.5 [CODE代码托管业务收费么？](/help/CSDN_Code/code_support/FAQ_0_6 "CODE代码托管业务收费么?")
+0.5 [CODE代码托管业务收费么？](/help/CSDN_Code/code_support/FAQ_0_5 "CODE代码托管业务收费么?")
 
-0.6 [每个用户有多少磁盘容量？](/help/CSDN_Code/code_support/FAQ_0_7 "每个用户有多少磁盘容量?")
+0.6 [每个用户有多少磁盘容量？](/help/CSDN_Code/code_support/FAQ_0_6 "每个用户有多少磁盘容量?")
 
-0.7 [用户权限是如何划分的？](/help/CSDN_Code/code_support/FAQ_0_8 "用户权限是如何划分的？")
+0.7 [用户权限是如何划分的？](/help/CSDN_Code/code_support/FAQ_0_7 "用户权限是如何划分的？")
 
-0.8 [如何反馈？](/help/CSDN_Code/code_support/FAQ_0_9 "如何提交错误报告？")
+0.8 [如何反馈？](/help/CSDN_Code/code_support/FAQ_0_8 "如何提交错误报告？")
 
 0.9 [Git工作模式](/help/CSDN_Code/code_support/FAQ_0_9 "Git工作模式")
 
@@ -49,9 +49,9 @@
 
 1.1 [首页](/help/CSDN_Code/code_support/FAQ_1_1 "首页")
 
-1.2 [用户主页](/help/CSDN_Code/code_support/FAQ_1_7 "用户主页")
+1.2 [用户主页](/help/CSDN_Code/code_support/FAQ_1_2 "用户主页")
 
-1.3 [用户控制面板](/help/CSDN_Code/code_support/FAQ_1_8 "用户控制面板")
+1.3 [用户控制面板](/help/CSDN_Code/code_support/FAQ_1_3 "用户控制面板")
 
 **2. 创建项目**
 
