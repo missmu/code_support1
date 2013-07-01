@@ -16,7 +16,7 @@
 
 0.6 [每个用户有多少磁盘容量？](/help/CSDN_Code/code_support/FAQ_0_6 "每个用户有多少磁盘容量?")
 
-0.7 [用户权限是如何划分的？](/help/CSDN_Code/code_support/FAQ_0_6 "用户权限是如何划分的？")
+0.7 [用户权限是如何划分的？](/help/CSDN_Code/code_support/FAQ_0_7 "用户权限是如何划分的？")
 
 0.8 [如何反馈？](/help/CSDN_Code/code_support/FAQ_0_8 "如何提交错误报告？")
 
@@ -30,9 +30,9 @@
 
 1.1 [首页](/help/CSDN_Code/code_support/FAQ_1_1 "首页")
 
-1.2 [用户主页](/help/CSDN_Code/code_support/FAQ_1_7 "用户主页")
+1.2 [用户主页](/help/CSDN_Code/code_support/FAQ_1_2 "用户主页")
 
-1.3 [用户控制面板](/help/CSDN_Code/code_support/FAQ_1_8 "用户控制面板")
+1.3 [用户控制面板](/help/CSDN_Code/code_support/FAQ_1_3 "用户控制面板")
 
 ----------
 
