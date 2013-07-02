@@ -3,11 +3,14 @@
 
 公钥是CODE识别您的用户身份的一种认证方式，通过公钥，您可以将本地git项目与CODE建立联系，然后您就可以很方便的将本地代码上传到CODE，或者将CODE代码下载到本地了。
 
+以下介绍生成公钥和管理公钥的方法。如果你是在windows系统下使用，**需要先安装git的windows客户端[msysgit](http://code.google.com/p/msysgit)** , 然后运行 Git Bash, 在弹出的终端中输入下面提示的代码。
+
+
 **1. 生成公钥**
 
 首先检查本机公钥：
 
-	$ cd ~/. ssh
+	$ cd ~/.ssh
  
 如果提示：No such file or directory 说明你是第一次使用git。如果不是第一次使用，请执行下面的操作,清理原有ssh密钥。
 
