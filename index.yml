@@ -72,6 +72,8 @@ root:
             url: "CSDN_Code/code_support/FAQ_2_4"
           - title: "2.5 wiki"
             url: "CSDN_Code/code_support/FAQ_2_5"
+          - title: "2.6 在线创建文件"
+            url: "CSDN_Code/code_support/FAQ_2_6"
   
       - title: "3. 社交编程"
         sub:
@@ -104,6 +106,8 @@ root:
             url: "CSDN_Code/code_support/FAQ_4_4"
           - title: "4.5 项目设置"
             url: "CSDN_Code/code_support/FAQ_4_5"
+          - title: "4.6 项目公钥"
+            url: "CSDN_Code/code_support/FAQ_4_6"
   
       - title: "5. 账号设置"
         sub:
@@ -115,7 +119,12 @@ root:
             url: "CSDN_Code/code_support/FAQ_5_3"
           - title: "5.4 安全日志"
             url: "CSDN_Code/code_support/FAQ_5_4"
-
+  
+      - title: "6. 代码片"
+        sub:
+          - title: "6.1 代码片创建及管理"
+            url: "CSDN_Code/code_support/FAQ_6_1"
+  
   - title: "关于"
     url: "CSDN_Code/code_support/About_Index"
     sub:
