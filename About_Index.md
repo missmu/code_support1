@@ -1,7 +1,4 @@
-# **帮助**
-
-----------
-
+## **关于**
 
 **[为什么CSDN要做CODE平台](/help/CSDN_Code/code_support/About_WhyCODE "为什么CSDN要做CODE平台")**
 
