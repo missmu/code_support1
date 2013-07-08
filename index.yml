@@ -115,20 +115,23 @@ root:
             url: "CSDN_Code/code_support/FAQ_5_3"
           - title: "5.4 安全日志"
             url: "CSDN_Code/code_support/FAQ_5_4"
-  
-      - title: "6. 关于我们"
+
+  - title: "关于"
+    url: "CSDN_Code/code_support/About_Index"
+    sub:
+      - title: "关于我们"
         sub:
-          - title: "6.1 为什么CSDN要做CODE平台"
-            url: "CSDN_Code/code_support/FAQ_6_1"
-          - title: "6.2 我们的开源"
-            url: "CSDN_Code/code_support/FAQ_6_2"
+          - title: "为什么CSDN要做CODE平台"
+            url: "CSDN_Code/code_support/About_WhyCODE"
+          - title: "我们的开源"
+            url: "CSDN_Code/code_support/About_OurOS"
   
-      - title: "7. 联系我们"
-        url: "CSDN_Code/code_support/FAQ_7"
+      - title: "联系我们"
+        url: "CSDN_Code/code_support/About_Contact"
   
-      - title: "8. 法律声明"
-        url: "CSDN_Code/code_support/FAQ_8"
+      - title: "法律声明"
+        url: "CSDN_Code/code_support/About_Legal"
   
-      - title: "9. 致谢"
-        url: "CSDN_Code/code_support/FAQ_9"
+      - title: "致谢"
+        url: "CSDN_Code/code_support/About_Acknowledge"
       
