@@ -48,6 +48,8 @@
 
 2.5 [wiki](/help/CSDN_Code/code_support/FAQ_2_5 "wiki")
 
+2.6 [在线创建文件](/help/CSDN_Code/code_support/FAQ_2_6 "在线创建文件")
+
 ----------
 
 ###**3. 社交编程**
@@ -82,6 +84,8 @@
 
 4.5 [项目设置](/help/CSDN_Code/code_support/FAQ_4_5 "项目设置")
 
+4.6 [项目公钥](/help/CSDN_Code/code_support/FAQ_4_6 "项目公钥")
+
 ----------
 
 ###**5. 帐号设置**
@@ -96,20 +100,6 @@
 
 ----------
 
-###**6. 关于我们**
+###**6. 代码片**
 
-6.1 [为什么CSDN要做CODE平台](/help/CSDN_Code/code_support/FAQ_6_1 "为什么CSDN要做CODE平台")
-
-6.2 [我们的开源](/help/CSDN_Code/code_support/FAQ_6_2 "我们的开源")
-
-----------
-
-###**[7. 联系我们](/help/CSDN_Code/code_support/FAQ_7 "联系我们")**
-
-----------
-
-###**[8. 法律声明](/help/CSDN_Code/code_support/FAQ_8 "法律声明")**
-
-----------
-
-###**[9. 致谢](/help/CSDN_Code/code_support/FAQ_9 "致谢")**
+6.1 [代码片创建及管理](/help/CSDN_Code/code_support/FAQ_6_1 "代码片创建及管理")
