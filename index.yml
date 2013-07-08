@@ -128,12 +128,11 @@ root:
   - title: "关于"
     url: "CSDN_Code/code_support/About_Index"
     sub:
-      - title: "关于我们"
-        sub:
-          - title: "为什么CSDN要做CODE平台"
-            url: "CSDN_Code/code_support/About_WhyCODE"
-          - title: "我们的开源"
-            url: "CSDN_Code/code_support/About_OurOS"
+      - title: "为什么CSDN要做CODE平台"
+        url: "CSDN_Code/code_support/About_WhyCODE"
+
+      - title: "我们的开源"
+        url: "CSDN_Code/code_support/About_OurOS"
   
       - title: "联系我们"
         url: "CSDN_Code/code_support/About_Contact"

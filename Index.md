@@ -21,6 +21,8 @@
 
 [9. Git内部原理](/help/CSDN_Code/progit/zh/09-git-internals/01-chapter9)
 
+----------
+
 ## **帮助**
 
 **0. 常见问题（FAQ）**
@@ -105,13 +107,13 @@
 
 5.4 [安全日志](/help/CSDN_Code/code_support/FAQ_5_4 "安全日志")
 
+----------
+
 ## **关于**
 
-**关于我们**
+**[为什么CSDN要做CODE平台](/help/CSDN_Code/code_support/About_WhyCODE "为什么CSDN要做CODE平台")**
 
-[为什么CSDN要做CODE平台](/help/CSDN_Code/code_support/About_WhyCODE "为什么CSDN要做CODE平台")
-
-[我们的开源](/help/CSDN_Code/code_support/About_OurOS "我们的开源")
+**[我们的开源](/help/CSDN_Code/code_support/About_OurOS "我们的开源")**
 
 **[联系我们](/help/CSDN_Code/code_support/About_Contact "联系我们")**
 

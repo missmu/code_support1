@@ -2,11 +2,10 @@
 
 ----------
 
-**关于我们**
 
-[为什么CSDN要做CODE平台](/help/CSDN_Code/code_support/About_WhyCODE "为什么CSDN要做CODE平台")
+**[为什么CSDN要做CODE平台](/help/CSDN_Code/code_support/About_WhyCODE "为什么CSDN要做CODE平台")**
 
-[我们的开源](/help/CSDN_Code/code_support/About_OurOS "我们的开源")
+**[我们的开源](/help/CSDN_Code/code_support/About_OurOS "我们的开源")**
 
 **[联系我们](/help/CSDN_Code/code_support/About_Contact "联系我们")**
 
