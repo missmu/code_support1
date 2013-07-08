@@ -105,14 +105,16 @@
 
 5.4 [安全日志](/help/CSDN_Code/code_support/FAQ_5_4 "安全日志")
 
-**6. 关于我们**
+## **关于**
 
-6.1 [为什么CSDN要做CODE平台](/help/CSDN_Code/code_support/FAQ_6_1 "为什么CSDN要做CODE平台")
+**关于我们**
 
-6.2 [我们的开源](/help/CSDN_Code/code_support/FAQ_6_2 "我们的开源")
+[为什么CSDN要做CODE平台](/help/CSDN_Code/code_support/About_WhyCODE "为什么CSDN要做CODE平台")
 
-**[7. 联系我们](/help/CSDN_Code/code_support/FAQ_7 "联系我们")**
+[我们的开源](/help/CSDN_Code/code_support/About_OurOS "我们的开源")
 
-**[8. 法律声明](/help/CSDN_Code/code_support/FAQ_8 "法律声明")**
+**[联系我们](/help/CSDN_Code/code_support/About_Contact "联系我们")**
 
-**[9. 致谢](/help/CSDN_Code/code_support/FAQ_9 "致谢")**
+**[法律声明](/help/CSDN_Code/code_support/About_Legal "法律声明")**
+
+**[致谢](/help/CSDN_Code/code_support/About_Acknowledge "致谢")**
