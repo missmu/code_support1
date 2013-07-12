@@ -31,7 +31,7 @@ root:
         url: "CSDN_Code/code_support/new_0"
       - title: "使用前的准备"
         url: "CSDN_Code/code_support/new_1"
-      - title: "我有一个项目，我想托管在CODE上"
+      - title: "我有一个项目想托管在CODE上"
         url: "CSDN_Code/code_support/new_2"
       - title: "我想直接在CODE上创建全新项目"
         url: "CSDN_Code/code_support/new_3"
@@ -41,14 +41,14 @@ root:
         url: "CSDN_Code/code_support/new_5"
       - title: "代码改错了，如何回退？"
         url: "CSDN_Code/code_support/new_6"
-      - title: "我想同时维护两个git托管平台的项目"
+      - title: "同时维护两个git托管平台的项目"
         url: "CSDN_Code/code_support/new_7"
       - title: "Git基本语法"
         url: "CSDN_Code/code_support/new_8"
       - title: "markdown基本语法"
         url: "CSDN_Code/code_support/new_9"
   
-  - title: "帮助"
+  - title: "用户帮助"
     url: "CSDN_Code/code_support/FAQ_Index"
     sub:
       - title: "0. 常见问题（FAQ）"
@@ -151,7 +151,7 @@ root:
           - title: "6.1 代码片创建及管理"
             url: "CSDN_Code/code_support/FAQ_6_1"
   
-  - title: "关于"
+  - title: "关于CODE"
     url: "CSDN_Code/code_support/About_Index"
     sub:
       - title: "为什么CSDN要做CODE平台"
