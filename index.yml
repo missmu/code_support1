@@ -24,6 +24,29 @@ root:
       - title: "9. Git内部原理"
         url: "CSDN_Code/progit/zh/09-git-internals/01-chapter9"
   
+  - title: "Progit中文版"
+    url: "CSDN_Code/code_support/Progit_Index"
+    sub:
+      - title: "扫盲贴"
+        url: "CSDN_Code/code_support/new_0"
+      - title: "使用前的准备"
+        url: "CSDN_Code/code_support/new_1"
+      - title: "我有一个项目，我想托管在CODE上"
+        url: "CSDN_Code/code_support/new_2"
+      - title: "我想直接在CODE上创建全新项目"
+        url: "CSDN_Code/code_support/new_3"
+      - title: "如何参与到别人的项目中"
+        url: "CSDN_Code/code_support/new_4"
+      - title: "有人参与我的项目，如何管理？"
+        url: "CSDN_Code/code_support/new_5"
+      - title: "代码改错了，如何回退？"
+        url: "CSDN_Code/code_support/new_6"
+      - title: "我想同时维护两个git托管平台的项目"
+        url: "CSDN_Code/code_support/new_7"
+      - title: "Git基本语法"
+        url: "CSDN_Code/code_support/new_8"
+      - title: "markdown基本语法"
+        url: "CSDN_Code/code_support/new_9"
   
   - title: "帮助"
     url: "CSDN_Code/code_support/FAQ_Index"
@@ -50,7 +73,8 @@ root:
             url: "CSDN_Code/code_support/FAQ_0_9"
           - title: "0.10 常见错误"
             url: "CSDN_Code/code_support/FAQ_0_10"
-  
+
+
       - title: "1. 网站探索"
         sub:
           - title: "1.1 首页"
@@ -74,6 +98,8 @@ root:
             url: "CSDN_Code/code_support/FAQ_2_5"
           - title: "2.6 在线创建文件"
             url: "CSDN_Code/code_support/FAQ_2_6"
+          - title: "2.7 在线编辑文件"
+            url: "CSDN_Code/code_support/FAQ_2_6"
   
       - title: "3. 社交编程"
         sub:
@@ -87,11 +113,11 @@ root:
             url: "CSDN_Code/code_support/FAQ_3_4"
           - title: "3.5 关注项目"
             url: "CSDN_Code/code_support/FAQ_3_5"
-          - title: "3.6 关注人"
+          - title: "3.6 关注用户"
             url: "CSDN_Code/code_support/FAQ_3_6"
           - title: "3.7 称赞"
             url: "CSDN_Code/code_support/FAQ_3_7"
-          - title: "3.8 开Issue"
+          - title: "3.8 Issue提交及处理"
             url: "CSDN_Code/code_support/FAQ_3_8"
   
       - title: "4. 项目管理"
