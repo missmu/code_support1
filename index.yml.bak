@@ -24,7 +24,7 @@ root:
       - title: "9. Git内部原理"
         url: "CSDN_Code/progit/zh/09-git-internals/01-chapter9"
   
-  - title: "CODE新手指南"
+  - title: "Progit中文版"
     url: "CSDN_Code/code_support/Progit_Index"
     sub:
       - title: "扫盲贴"
