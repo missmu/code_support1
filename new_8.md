@@ -1,58 +1,54 @@
 ## Git基本语法
 
-先记住三个最常用的命令：
 
->git clone
-  
-下载git仓库的语句
-
->git pull
-
-将线上版本拉回到本地
-
->git push
-
-将本地版本上传到线上 
-
-**其他常用命令**
-
-1) 远程仓库相关命令  
-检出仓库：$ git clone git://github.com/jquery/jquery.git  
-查看远程仓库：$ git remote -v  
-添加远程仓库：$ git remote add [name] [url]  
-删除远程仓库：$ git remote rm [name]  
-修改远程仓库：$ git remote set-url --push[name][newUrl]  
-拉取远程仓库：$ git pull [remoteName] [localBranchName]  
-推送远程仓库：$ git push [remoteName] [localBranchName]  
-  
-2）分支(branch)操作相关命令  
-查看本地分支：$ git branch  
-查看远程分支：$ git branch -r  
-创建本地分支：$ git branch [name] ----注意新分支创建后不会自动切换为当前分支  
-切换分支：$ git checkout [name]  
-创建新分支并立即切换到新分支：$ git checkout -b [name]  
-删除分支：$ git branch -d [name] ---- -d选项只能删除已经参与了合并的分支，对于未有合并的分支是无法删除的。如果想强制删除一个分支，可以使用-D选项  
-合并分支：$ git merge [name] ----将名称为[name]的分支与当前分支合并  
-
-3）版本(tag)操作相关命令  
-查看版本：$ git tag  
-创建版本：$ git tag [name]  
-删除版本：$ git tag -d [name]  
-查看远程版本：$ git tag -r  
-创建远程版本(本地版本push到远程)：$ git push origin [name]  
-删除远程版本：$ git push origin :refs/tags/[name]  
-
-4) 子模块(submodule)相关操作命令  
-添加子模块：$ git submodule add [url] [path]  
-如：$ git submodule add git://github.com/soberh/ui-libs.git src/main/webapp/ui-libs  
-初始化子模块：$ git submodule init ----只在首次检出仓库时运行一次就行  
-更新子模块：$ git submodule update ----每次更新或切换分支后都需要运行一下  
-删除子模块：（分4步走哦）  
-1)$ git rm --cached [path]  
-2) 编辑“.gitmodules”文件，将子模块的相关配置节点删除掉  
-3) 编辑“.git/config”文件，将子模块的相关配置节点删除掉  
-4) 手动删除子模块残留的目录  
-
-
+| 语法 | 功能说明 |  
+| :----------- | :-----------: |  
+| git clone | 克隆版本库 |  
+| git pull | 拉回远程版本库的提交 |  
+| git push | 推送至远程版本库 |  
+| git add | 添加至暂存区 |  
+| git add–interactive | 交互式添加 |  
+| git apply | 应用补丁 |    
+| git am | 应用邮件格式补丁 |  
+| git annotate | 同义词，等同于 git blame |    
+| git archive | 文件归档打包 |  
+| git bisect | 二分查找 |  
+| git blame | 文件逐行追溯 |  
+| git branch | 分支管理 |  
+| git cat-file | 版本库对象研究工具 |  
+| git checkout | 检出到工作区、切换或创建分支 |  
+| git cherry-pick | 提交拣选 |  
+| git citool | 图形化提交，相当于 git gui 命令 |  
+| git clean | 清除工作区未跟踪文件 |  
+| git commit | 提交 |  
+| git config | 查询和修改配置 |  
+| git describe | 通过里程碑直观地显示提交ID |  
+| git diff | 差异比较 |  
+| git difftool | 调用图形化差异比较工具 |  
+| git fetch | 获取远程版本库的提交 |  
+| git format-patch | 创建邮件格式的补丁文件。参见 git am 命令 |  
+| git grep | 文件内容搜索定位工具 |  
+| git gui | 基于Tcl/Tk的图形化工具，侧重提交等操作 |  
+| git help | 帮助 |  
+| git init | 版本库初始化 |  
+| git init-db | 同义词，等同于 git init |  
+| git log | 显示提交日志 |  
+| git merge | 分支合并 |  
+| git mergetool | 图形化冲突解决 |  
+| git mv | 重命名 |  
+| git rebase | 分支变基 |  
+| git rebase–interactive | 交互式分支变基 |  
+| git reflog | 分支等引用变更记录管理 |  
+| git remote | 远程版本库管理 |  
+| git repo-config | 同义词，等同于 git config |  
+| git reset | 重置改变分支“游标”指向 |  
+| git rev-parse | 将各种引用表示法转换为哈希值等 |  
+| git revert | 反转提交 |  
+| git rm | 删除文件 |  
+| git show | 显示各种类型的对象 |  
+| git stage | 同义词，等同于 git add |  
+| git stash | 保存和恢复进度 |  
+| git status | 显示工作区文件状态 |  
+| git tag | 里程碑管理 |  
 
 
