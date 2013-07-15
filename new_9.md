@@ -56,22 +56,14 @@
 
 ### 表格
 
-    |  |  Grouping   ||
-    | First Header | Second Header | Third Header |
-    | ------------ | :-----------: | -----------: |
-    | Content  |  *Long Cell*||
-    | Content  |   **Cell**| Cell |
-    
-    | New section  | More  | Data |
-    | And more |And more ||
+    | 这里是表头 | 这里是第二列表头 |  
+    |-----------|----------------|  
+    |  第一行|  第一行 |  
+    |  第二行|  第二行 |  
 
 效果如图
 
-|              |          Grouping           ||  
-| First Header | Second Header | Third Header |  
-| ------------ | :-----------: | -----------: |  
-| Content      |          *Long Cell*        ||  
-| Content      |   **Cell**    |         Cell |  
-
-| New section  |     More      |         Data |  
-| And more     |            And more         ||  
+| 这里是表头 | 这里是第二列表头 | 
+|-----------|----------------|  
+|  第一行    |  第一行         |  
+|  第二行    |  第二行         |  
