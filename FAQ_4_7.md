@@ -6,7 +6,7 @@
 我们会使用一个单独的“body”作为POST请求中的参数，参数中的commits数组部分，最早的提交在最上面，最新的提交在最下面。
 下面是body数据例子：
  
-<script src="https://newalitest/snippets/47.js"></script>
+![](images/FAQ_4_7_1.jpg)
 
 ### 设置
 我们推荐使用 RequestBin 测试我们的WebHook, RequestBin 具体用法如下：
