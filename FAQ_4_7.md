@@ -6,6 +6,8 @@
 
 我们会使用一个单独的“body”作为POST请求中的参数，参数中的commits数组部分，最早的提交在最上面，最新的提交在最下面。
 
+我们会使用一个单独的“body”作为POST请求中的参数，参数中的commits数组部分，最早的提交在最上面，最新的提交在最下面。
+
 下面是body数据例子：
  
 ![](images/FAQ_4_7_1.jpg)
@@ -33,6 +35,18 @@
 
 ![](images/FAQ_4_7_6.jpg)
 
+6、粘贴您拷贝的 RequestBin URL地址并“添加”
+
+1、访问 http://requestb.in 点击 'Create a RequestBin'
+![](images/FAQ_4_7_2.jpg) 
+2、拷贝系统提供的URL地址
+![](images/FAQ_4_7_3.jpg)
+3、登录CODE系统，进入目标项目的设置页面
+![](images/FAQ_4_7_4.jpg) 
+4、点击“Hooks” 菜单
+![](images/FAQ_4_7_5.jpg)
+5、点击 “WebHook”子菜单项
+![](images/FAQ_4_7_6.jpg)
 6、粘贴您拷贝的 RequestBin URL地址并“添加”
 
 ![](images/FAQ_4_7_7.jpg)
