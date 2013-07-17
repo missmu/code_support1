@@ -124,7 +124,9 @@ root:
         sub:
           - title: "6.1 代码片创建及管理"
             url: "CSDN_Code/code_support/FAQ_6_1"
-  
+          - title: "6.2 在CSDN博客中引用CODE代码片"
+            url: "CSDN_Code/code_support/FAQ_6_2"
+              
   - title: "关于"
     url: "CSDN_Code/code_support/About_Index"
     sub:
