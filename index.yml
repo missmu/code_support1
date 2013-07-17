@@ -25,7 +25,7 @@ root:
         url: "CSDN_Code/progit/zh/09-git-internals/01-chapter9"
   
   - title: "CODE新手指南"
-    url: "CSDN_Code/code_support/Progit_Index"
+    url: "CSDN_Code/code_support/new_Index"
     sub:
       - title: "扫盲贴"
         url: "CSDN_Code/code_support/new_0"
@@ -134,6 +134,8 @@ root:
             url: "CSDN_Code/code_support/FAQ_4_5"
           - title: "4.6 项目公钥"
             url: "CSDN_Code/code_support/FAQ_4_6"
+          - title: "4.7 HOOKS"
+            url: "CSDN_Code/code_support/FAQ_4_7"
   
       - title: "5. 账号设置"
         sub:
@@ -150,6 +152,8 @@ root:
         sub:
           - title: "6.1 代码片创建及管理"
             url: "CSDN_Code/code_support/FAQ_6_1"
+          - title: "6.2 在CSDN博客中引用代码片"
+            url: "CSDN_Code/code_support/FAQ_6_2"
   
   - title: "关于CODE"
     url: "CSDN_Code/code_support/About_Index"
