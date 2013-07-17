@@ -65,3 +65,4 @@
 
  ![alt 引用代码片](/images/FAQ_6_3_4.jpg)
 
+CSDN博客已经全面支持对于CODE代码片的引用，具体的用法请看[这里](https://code.csdn.net/help/CSDN_Code/code_support/FAQ_6_2 "在CSDN博客中引用CODE代码片")。
