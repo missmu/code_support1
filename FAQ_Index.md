@@ -86,7 +86,11 @@
 
 4.6 [项目公钥](/help/CSDN_Code/code_support/FAQ_4_6 "项目公钥")
 
-----------
+4.7 [Hooks](/help/CSDN_Code/code_support/FAQ_4_7 "Hooks")
+
+4.8 [项目评论](/help/CSDN_Code/code_support/FAQ_4_8 "项目评论")
+
+4.9 [添加引用项目](/help/CSDN_Code/code_support/FAQ_4_9 "添加引用项目")
 
 ###**5. 帐号设置**
 
@@ -98,8 +102,17 @@
 
 5.4 [安全日志](/help/CSDN_Code/code_support/FAQ_5_4 "安全日志")
 
-----------
-
 ###**6. 代码片**
 
 6.1 [代码片创建及管理](/help/CSDN_Code/code_support/FAQ_6_1 "代码片创建及管理")
+
+6.2 [在CSDN博客引用代码片](/help/CSDN_Code/code_support/FAQ_6_2 "在CSDN博客引用代码片")
+
+###**7. 组织**
+
+7.1 [组织的创建及删除](/help/CSDN_Code/code_support/FAQ_7_1 "组织的创建及删除")
+
+7.2 [组织中的团队管理](/help/CSDN_Code/code_support/FAQ_7_2 "组织中的团队管理")
+
+7.3 [在组织和个人间切换](/help/CSDN_Code/code_support/FAQ_7_3 "在组织和个人间切换")
+
