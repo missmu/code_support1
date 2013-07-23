@@ -108,6 +108,12 @@ root:
             url: "CSDN_Code/code_support/FAQ_4_5"
           - title: "4.6 项目公钥"
             url: "CSDN_Code/code_support/FAQ_4_6"
+          - title: "4.7 Hooks"
+            url: "CSDN_Code/code_support/FAQ_4_7"
+          - title: "4.8 项目评论"
+            url: "CSDN_Code/code_support/FAQ_4_8"
+          - title: "4.9 添加引用项目"
+            url: "CSDN_Code/code_support/FAQ_4_9"
   
       - title: "5. 账号设置"
         sub:
@@ -126,6 +132,15 @@ root:
             url: "CSDN_Code/code_support/FAQ_6_1"
           - title: "6.2 在CSDN博客中引用代码片"
             url: "CSDN_Code/code_support/FAQ_6_2"
+
+      - title: "7. 组织"
+        sub:
+          - title: "7.1 组织的创建及删除"
+            url: "CSDN_Code/code_support/FAQ_7_1"
+          - title: "7.2 组织中的团队"
+            url: "CSDN_Code/code_support/FAQ_7_2"
+          - title: "7.3 在组织和个人间切换"
+            url: "CSDN_Code/code_support/FAQ_7_3"
               
   - title: "关于"
     url: "CSDN_Code/code_support/About_Index"
