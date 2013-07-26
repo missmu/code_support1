@@ -33,7 +33,7 @@ root:
         url: "CSDN_Code/code_support/new_1"
       - title: "我想直接在CODE上创建全新项目"
         url: "CSDN_Code/code_support/new_2"
-      - title: "我已经有一个项目了，想托管在CODE上"
+      - title: "已有一个项目，想托管在CODE上"
         url: "CSDN_Code/code_support/new_3"
       - title: "如何参与到别人的项目中"
         url: "CSDN_Code/code_support/new_4"

@@ -8,7 +8,7 @@
 
 [我想直接在CODE上创建全新项目](/help/CSDN_Code/code_support/new_2)
 
-[我已经有一个项目了，想托管在CODE上](/help/CSDN_Code/code_support/new_3)
+[已有一个项目，想托管在CODE上](/help/CSDN_Code/code_support/new_3)
 
 [如何参与到别人的项目中](/help/CSDN_Code/code_support/new_4)
 

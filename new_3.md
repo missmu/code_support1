@@ -1,4 +1,4 @@
-## 我有一个项目，我想托管在CODE上
+## 已有一个项目，想托管在CODE上
 
 
 **在此操作之前需要您[配置本地git环境](/help/CSDN_Code/code_support/FAQ_2_2)。**
