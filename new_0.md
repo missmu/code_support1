@@ -84,6 +84,6 @@ CODE平台上，项目的README文件和wiki都是Markdown格式的，文件后�
 
 ---  
 
->### [推荐一个git辅助工具：TortoiseGit](/help/CSDN_Code/code_support/new_s_7)  
+>### [推荐一个git辅助工具：TortoiseGit](/help/CSDN_Code/code_support/new_10)  
 
 这个工具可以将一些git常见操作换位可视化的执行，适合对git命令不太熟悉的新手。
