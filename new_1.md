@@ -8,4 +8,4 @@ CODE平台是一个使用git版本管理工具的代码托管与社交编程平�
 
 ### 2、[添加SSH公钥](/help/CSDN_Code/code_support/FAQ_2_2)
 
-### 3、[推荐一个git辅助工具：TortoiseGit](/help/CSDN_Code/code_support/new_s_7)
+### 3、[推荐一个git辅助工具：TortoiseGit](/help/CSDN_Code/code_support/new_10)

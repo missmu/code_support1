@@ -6,9 +6,9 @@
 
 [使用前的准备](/help/CSDN_Code/code_support/new_1)
 
-[我有一个项目想托管在CODE上](/help/CSDN_Code/code_support/new_2)
+[我想直接在CODE上创建全新项目](/help/CSDN_Code/code_support/new_2)
 
-[我想直接在CODE上创建全新项目](/help/CSDN_Code/code_support/new_3)
+[我已经有一个项目了，想托管在CODE上](/help/CSDN_Code/code_support/new_3)
 
 [如何参与到别人的项目中](/help/CSDN_Code/code_support/new_4)
 
@@ -22,3 +22,4 @@
 
 [markdown基本语法](/help/CSDN_Code/code_support/new_9)
 
+[TortoiseGit使用](/help/CSDN_Code/code_support/new_10)
