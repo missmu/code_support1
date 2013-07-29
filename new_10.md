@@ -4,7 +4,7 @@
 
 这里我们推荐一个辅助工具，TortoiseGit，它可以把一些常用的git操作转换为可视化操作，让你不用再记忆大量git命令。
 
-TortoiseGit下载地址：
+[TortoiseGit下载地址：](https://code.google.com/p/tortoisegit/wiki/Download?tm=2)
 
 安装好TortoiseGit后，你会发现鼠标右键多了许多git操作菜单。如图：
 
