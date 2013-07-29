@@ -63,7 +63,6 @@
 
 拷贝这个链接并加入到其他网页，如个人博客（需要支持在网页内运行js脚本），即可在相应的网页中嵌入该代码片，并保持语法加亮等功能。
 
- ![alt 引用代码片](/images/FAQ_6_3_4.jpg)
+ ![alt 引用代码片](/images/FAQ_6_3_4.jpg)  
 
-CSDN博客已经全面支持引用CODE代码片功能，具体的用法请看[这里](/help/CSDN_Code/code_support/FAQ_6_2)。
-
+CSDN博客已经全面支持引用CODE代码片功能，具体的用法请看[这里](https://code.csdn.net/help/CSDN_Code/code_support/FAQ_6_2 "在CSDN博客中引用CODE代码片")。
