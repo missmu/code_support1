@@ -23,7 +23,7 @@ root:
         url: "CSDN_Code/progit/zh/08-git-and-other-scms/01-chapter8"
       - title: "9. Git内部原理"
         url: "CSDN_Code/progit/zh/09-git-internals/01-chapter9"
-  
+
   - title: "CODE新手指南"
     url: "CSDN_Code/code_support/new_Index"
     sub:
@@ -75,8 +75,7 @@ root:
             url: "CSDN_Code/code_support/FAQ_0_9"
           - title: "0.10 常见错误"
             url: "CSDN_Code/code_support/FAQ_0_10"
-
-
+  
       - title: "1. 网站探索"
         sub:
           - title: "1.1 首页"
@@ -100,8 +99,6 @@ root:
             url: "CSDN_Code/code_support/FAQ_2_5"
           - title: "2.6 在线创建文件"
             url: "CSDN_Code/code_support/FAQ_2_6"
-          - title: "2.7 在线编辑文件"
-            url: "CSDN_Code/code_support/FAQ_2_7"
   
       - title: "3. 社交编程"
         sub:
@@ -115,11 +112,11 @@ root:
             url: "CSDN_Code/code_support/FAQ_3_4"
           - title: "3.5 关注项目"
             url: "CSDN_Code/code_support/FAQ_3_5"
-          - title: "3.6 关注用户"
+          - title: "3.6 关注人"
             url: "CSDN_Code/code_support/FAQ_3_6"
           - title: "3.7 称赞"
             url: "CSDN_Code/code_support/FAQ_3_7"
-          - title: "3.8 Issue提交及处理"
+          - title: "3.8 开Issue"
             url: "CSDN_Code/code_support/FAQ_3_8"
   
       - title: "4. 项目管理"
@@ -136,8 +133,12 @@ root:
             url: "CSDN_Code/code_support/FAQ_4_5"
           - title: "4.6 项目公钥"
             url: "CSDN_Code/code_support/FAQ_4_6"
-          - title: "4.7 HOOKS"
+          - title: "4.7 Hooks"
             url: "CSDN_Code/code_support/FAQ_4_7"
+          - title: "4.8 项目评论"
+            url: "CSDN_Code/code_support/FAQ_4_8"
+          - title: "4.9 添加引用项目"
+            url: "CSDN_Code/code_support/FAQ_4_9"
   
       - title: "5. 账号设置"
         sub:
@@ -156,8 +157,17 @@ root:
             url: "CSDN_Code/code_support/FAQ_6_1"
           - title: "6.2 在CSDN博客中引用代码片"
             url: "CSDN_Code/code_support/FAQ_6_2"
-  
-  - title: "关于CODE"
+
+      - title: "7. 组织"
+        sub:
+          - title: "7.1 组织的创建及删除"
+            url: "CSDN_Code/code_support/FAQ_7_1"
+          - title: "7.2 组织中的团队"
+            url: "CSDN_Code/code_support/FAQ_7_2"
+          - title: "7.3 在组织和个人间切换"
+            url: "CSDN_Code/code_support/FAQ_7_3"
+              
+  - title: "关于"
     url: "CSDN_Code/code_support/About_Index"
     sub:
       - title: "为什么CSDN要做CODE平台"
