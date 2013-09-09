@@ -108,6 +108,10 @@
 
 6.2 [在CSDN博客引用代码片](/help/CSDN_Code/code_support/FAQ_6_2 "在CSDN博客引用代码片")
 
+6.3 [私有代码片](/help/CSDN_Code/code_support/FAQ_6_5 "私有代码片")
+
+6.4 [代码片分类检索](/help/CSDN_Code/code_support/FAQ_6_4 "代码片分类检索")
+
 ###**7. 组织**
 
 7.1 [组织的创建及删除](/help/CSDN_Code/code_support/FAQ_7_1 "组织的创建及删除")
@@ -116,3 +120,38 @@
 
 7.3 [在组织和个人间切换](/help/CSDN_Code/code_support/FAQ_7_3 "在组织和个人间切换")
 
+###**8.文档项目**
+
+8.1 [创建文档项目](/help/CSDN_Code/code_support/FAQ_8_1 "创建文档项目")
+
+8.2 [编辑文档项目](/help/CSDN_Code/code_support/FAQ_8_2 "编辑文档项目")
+
+8.3 [显示模式切换](/help/CSDN_Code/code_support/FAQ_8_3 "显示模式切换")
+
+8.4 [文档历史管理](/help/CSDN_Code/code_support/FAQ_8_4 "文档历史")
+
+8.5 [在线处理合并请求](/help/CSDN_Code/code_support/FAQ_8_5 "在线处理合并请求")
+
+###**9.讨论组**
+
+9.1 [创建讨论组](/help/CSDN_Code/code_support/FAQ_9_1 "创建讨论组")
+
+9.2 [话题创建及管理](/help/CSDN_Code/code_support/FAQ_9_2 "话题")
+
+9.3 [知识分享](/help/CSDN_Code/code_support/FAQ_9_3 "知识分享")
+
+9.4 [资源分享](/help/CSDN_Code/code_support/FAQ_9_4 "资源分享")
+
+9.5 [成员管理](/help/CSDN_Code/code_support/FAQ_9_5 "成员管理")
+
+9.6 [群组信息管理](/help/CSDN_Code/code_support/FAQ_9_6 "群组信息管理")
+
+9.7 [友情小组管理](/help/CSDN_Code/code_support/FAQ_9_7 "友情小组管理")
+
+9.8 [数据统计](/help/CSDN_Code/code_support/FAQ_9_8 "数据统计")
+
+9.9 [群组管理日志](/help/CSDN_Code/code_support/FAQ_9_9 "群组管理日志")
+
+9.10 [群组内搜索](/help/CSDN_Code/code_support/FAQ_9_10 "群组内搜索")
+
+9.11 [关联项目和组织](/help/CSDN_Code/code_support/FAQ_9_11 "关联项目和组织")
