@@ -146,6 +146,8 @@
 
 8.5 [在线处理合并请求](/help/CSDN_Code/code_support/FAQ_8_5 "在线处理合并请求")
 
+8.6 [已知问题](/help/CSDN_Code/code_support/FAQ_8_6 "已知问题")
+
 **9.讨论组**
 
 9.1 [创建讨论组](/help/CSDN_Code/code_support/FAQ_9_1 "创建讨论组")

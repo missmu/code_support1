@@ -183,6 +183,8 @@ root:
             url: "CSDN_Code/code_support/FAQ_8_4"
           - title: "8.5 在线处理合并请求"
             url: "CSDN_Code/code_support/FAQ_8_5"
+          - title: "8.6 已知问题"
+            url: "CSDN_Code/code_support/FAQ_8_6"
 
       - title: "9. 讨论组"
         sub:
