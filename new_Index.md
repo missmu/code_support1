@@ -1,4 +1,4 @@
-# CODE新手指南
+# CODE 新手指南
 
 ---
 
@@ -16,10 +16,12 @@
 
 [代码改错了，如何回退？](/help/CSDN_Code/code_support/new_6)
 
-[同时维护两个git托管平台的项目](/help/CSDN_Code/code_support/new_7)
+[同时维护两个 Git 托管平台的项目](/help/CSDN_Code/code_support/new_7)
 
-[Git基本语法](/help/CSDN_Code/code_support/new_8)
+[Git 基本语法](/help/CSDN_Code/code_support/new_8)
 
 [markdown基本语法](/help/CSDN_Code/code_support/new_9)
 
-[TortoiseGit使用](/help/CSDN_Code/code_support/new_10)
+[TortoiseGit 使用](/help/CSDN_Code/code_support/new_10)
+
+[Eclipse 配置 Git](/help/CSDN_Code/code_support/new_11)
