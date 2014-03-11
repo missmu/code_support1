@@ -170,7 +170,7 @@ root:
             url: "CSDN_Code/code_support/FAQ_7_1"
           - title: "7.2 组织中的团队"
             url: "CSDN_Code/code_support/FAQ_7_2"
-          - title: "7.3 在组织和个人间切换"
+          - title: "7.3 在组织中创建和派生项目"
             url: "CSDN_Code/code_support/FAQ_7_3"
 
       - title: "8. 文档项目"
@@ -230,4 +230,3 @@ root:
   
       - title: "致谢"
         url: "CSDN_Code/code_support/About_Acknowledge"
-      

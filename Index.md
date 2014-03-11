@@ -132,7 +132,7 @@
 
 7.2 [组织中的团队管理](/help/CSDN_Code/code_support/FAQ_7_2 "组织中的团队管理")
 
-7.3 [在组织和个人间切换](/help/CSDN_Code/code_support/FAQ_7_3 "在组织和个人间切换")
+7.3 [在组织中创建和派生项目](/help/CSDN_Code/code_support/FAQ_7_3 "在组织中创建和派生项目")
 
 **8.文档项目**
 
