@@ -157,3 +157,19 @@
 9.10 [群组内搜索](/help/CSDN_Code/code_support/FAQ_9_10 "群组内搜索")
 
 9.11 [关联项目和组织](/help/CSDN_Code/code_support/FAQ_9_11 "关联项目和组织")
+
+###**10.CODE积分**
+
+10.1 [CODE积分](/help/CSDN_Code/code_support/FAQ_10_1 "CODE积分")
+
+###**11.悬赏**
+
+11.1 [什么是悬赏](/help/CSDN_Code/code_support/FAQ_11_1 "什么是悬赏")
+
+11.2 [发布悬赏](/help/CSDN_Code/code_support/FAQ_11_2 "发布悬赏")
+
+11.3 [给悬赏加分](/help/CSDN_Code/code_support/FAQ_11_3 "给悬赏加分")
+
+11.4 [承接悬赏任务](/help/CSDN_Code/code_support/FAQ_11_4 "承接悬赏任务")
+
+11.5 [悬赏评价](/help/CSDN_Code/code_support/FAQ_11_5 "悬赏评价")

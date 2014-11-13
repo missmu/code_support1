@@ -7,11 +7,9 @@
 
 **配置用户名**
 
-确认你在CSDN id,获取的方式是在登录后，进入passport.csdn.net，在“个人帐号”的最下端查看用户名：
+确认你在CSDN id,获取的方式是在登录后，进入my.csdn.net，在您的个人头像图片右侧，昵称信息上方的粗体字即为用户名。
 
-![](/images/FAQ_2_2_1.png)
-
-然后在命令行中输入：
+获知用户名后，在命令行中输入：
 
 	git config --global user.name "CSDN id"
 

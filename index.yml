@@ -212,6 +212,49 @@ root:
             url: "CSDN_Code/code_support/FAQ_9_10"
           - title: "9.11 关联项目和组织"
             url: "CSDN_Code/code_support/FAQ_9_11"
+
+      - title: "10. CODE积分"
+        sub:
+          - title: "10.1 CODE积分"
+            url: "CSDN_Code/code_support/FAQ_10_1"
+
+      - title: "11. 悬赏"
+        sub:
+          - title: "11.1 什么是悬赏"
+            url: "CSDN_Code/code_support/FAQ_11_1"	    
+          - title: "11.2 发布悬赏"
+            url: "CSDN_Code/code_support/FAQ_11_2"
+          - title: "11.3 给悬赏加分"
+            url: "CSDN_Code/code_support/FAQ_11_3"
+          - title: "11.4 承接悬赏任务"
+            url: "CSDN_Code/code_support/FAQ_11_4"
+          - title: "11.5 悬赏评价"
+            url: "CSDN_Code/code_support/FAQ_11_5"
+
+  - title: "开源夏令营"
+    url: "CSDN_Code/code_support/oscamp_intro"
+    sub:
+      - title: "活动简介"
+        url: "CSDN_Code/code_support/oscamp_intro"
+
+      - title: "导师指导文档"
+        url: "CSDN_Code/code_support/oscamp_mentor_guide"
+
+      - title: "组织报名及操作步骤"
+        url: "CSDN_Code/code_support/oscamp_organization"
+
+      - title: "学生指导文档"
+        url: "CSDN_Code/code_support/oscamp_student_guide"
+
+      - title: "学生报名及操作步骤"
+        url: "CSDN_Code/code_support/oscamp_student"
+
+      - title: "项目工作指导"
+        url: "CSDN_Code/code_support/oscamp_student_work"
+
+      - title: "模板"
+        url: "CSDN_Code/code_support/oscamp_template"
+
               
   - title: "关于"
     url: "CSDN_Code/code_support/About_Index"
@@ -230,4 +273,3 @@ root:
   
       - title: "致谢"
         url: "CSDN_Code/code_support/About_Acknowledge"
-    
