@@ -213,9 +213,9 @@ root:
           - title: "9.11 关联项目和组织"
             url: "CSDN_Code/code_support/FAQ_9_11"
 
-      - title: "10. CODE积分"
+      - title: "10. CODE平台C币规则"
         sub:
-          - title: "10.1 CODE积分"
+          - title: "10.1 CODE平台C币规则"
             url: "CSDN_Code/code_support/FAQ_10_1"
 
       - title: "11. 悬赏"
