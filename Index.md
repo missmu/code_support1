@@ -172,9 +172,9 @@
 
 9.11 [关联项目和组织](/help/CSDN_Code/code_support/FAQ_9_11 "关联项目和组织")
 
-**10. CODE积分**
+**10. CODE平台C币规则**
 
-10.1 [CODE积分](/help/CSDN_Code/code_support/FAQ_10_1 "关联项目和组织")
+10.1 [CODE平台C币规则](/help/CSDN_Code/code_support/FAQ_10_1 "CODE平台C币规则")
 
 **11. 悬赏**
 

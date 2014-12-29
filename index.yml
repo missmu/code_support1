@@ -231,6 +231,28 @@ root:
           - title: "11.5 悬赏评价"
             url: "CSDN_Code/code_support/FAQ_11_5"
 
+  - title: "翻译平台"
+    url: "CSDN_Code/code_support/translate_1_0"
+    sub:
+      - title: "翻译平台简介"
+        url: "CSDN_Code/code_support/translate_2_0"
+      - title: "发布翻译项目"
+        url: "CSDN_Code/code_support/translate_3_0"
+      - title: "参与翻译项目"
+        url: "CSDN_Code/code_support/translate_4_0"
+      - title: "PM 操作指南"
+        url: "CSDN_Code/code_support/translate_5_1"
+      - title: "初译操作指南"
+        url: "CSDN_Code/code_support/translate_5_2"
+      - title: "审校操作指南"
+        url: "CSDN_Code/code_support/translate_5_3"
+      - title: "翻译细节说明"
+        url: "CSDN_Code/code_support/translate_6_0"
+      - title: "奖励机制"
+        url: "CSDN_Code/code_support/translate_7_0"
+      - title: "版权及法律声明"
+        url: "CSDN_Code/code_support/translate_8_0"
+
   - title: "开源夏令营"
     url: "CSDN_Code/code_support/oscamp_intro"
     sub:
