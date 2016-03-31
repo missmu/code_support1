@@ -51,6 +51,23 @@ root:
         url: "CSDN_Code/code_support/new_10"
       - title: "Eclipse 配置 Git"
         url: "CSDN_Code/code_support/new_11"
+       
+  - title: "C-IDE新手指南"
+    url: "CSDN_Code/code_support/IDE_Index"
+    sub:
+      - title: "什么是CIDE"
+        url: "CSDN_Code/code_support/ide_0"
+      - title: "C-IDE登录方式"
+        url: "CSDN_Code/code_support/ide_1"
+      - title: "C-IDE功能和操作"
+        url: "CSDN_Code/code_support/ide_2"
+      - title: "C-IDE支持哪些语言和框架？是否支持数据库？"
+        url: "CSDN_Code/code_support/ide_3"
+      - title: "C-IDE如何与代码托管连接"
+        url: "CSDN_Code/code_support/ide_4"
+      - title: "有趣的ZEN模式？"
+        url: "CSDN_Code/code_support/ide_5"
+    
   
   - title: "用户帮助"
     url: "CSDN_Code/code_support/FAQ_Index"
