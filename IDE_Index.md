@@ -2,9 +2,9 @@
 
 ---
 
-[什么是CIDE](/help/CSDN_Code/code_support/ide_0)
+[什么是CIDE](/help/CSDN_Code/code_support1/ide_0)
 
-[C-IDE登录方式](/help/CSDN_Code/code_support/ide_1)
+[C-IDE登录方式](/help/CSDN_Code/code_support1/ide_1)
 
 [C-IDE功能和操作](/help/CSDN_Code/code_support/ide_2)
 
